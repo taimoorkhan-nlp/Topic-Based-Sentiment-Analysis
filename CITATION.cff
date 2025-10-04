@@ -4,8 +4,8 @@ authors:
 - family-names: "Khan"
   given-names: "M. Taimoor"
   orcid: "0000-0002-6542-9217"
-title: "Aspect-based-sentiment-analysis"
+title: "Topic(Aspect)-based-sentiment-analysis"
 version: 1.0.0
 doi: 
-date-released: 2025-08-14
+date-released: 2025-10-05
 url: "https://github.com/taimoorkhan-nlp/Aspect-based-sentiment-analysis"
